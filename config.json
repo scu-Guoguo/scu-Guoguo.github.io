@@ -1,5 +1,5 @@
 {
-    "websiteTitle": "Chen Guo's personal homepage",
+    "websiteTitle": "Academic Page",
     "adoptSearch": true,
     "hasLogo": false,
     "logoInfo": {
@@ -11,7 +11,7 @@
         "firstName": "Guo",
         "lastName": "Chen",
         "zhName": "陈果",
-        "photo": "profile.png",
+        "photo": "images/profile.png",
         "address": null,
         "tel": null,
         "email": "15385553141@163.com",
