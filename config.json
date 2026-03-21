@@ -1,5 +1,5 @@
 {
-    "websiteTitle": "Weijie Li Academic Page",
+    "websiteTitle": "Chen Guo's personal homepage",
     "adoptSearch": true,
     "hasLogo": false,
     "logoInfo": {
@@ -8,25 +8,25 @@
         "height": null
     },
     "userInfo": {
-        "firstName": "Weijie",
-        "lastName": "Li",
-        "zhName": "李炜杰",
+        "firstName": "Guo",
+        "lastName": "Chen",
+        "zhName": "陈果",
         "photo": "profile.png",
         "address": null,
         "tel": null,
-        "email": "silverbeats@qq.com",
-        "wechat": null,
-        "qq": null,
+        "email": "15385553141@163.com",
+        "wechat": "WC15385553141",
+        "qq": "2792937549",
         "facebook": null,
         "twitter": null,
-        "github": "https://github.com/silverbeats",
-        "orcid": "https://orcid.org/0009-0000-6734-7242",
-        "dblp": "https://dblp.org/pid/59/10083-1.html"
+        "github": "https://github.com/scu-Guoguo",
+        "orcid": "https://orcid.org/0009-0000-7783-8985",
+        "dblp": null
     },
     "authorMarkInfo": "*: Corresponding Author; #: Advisor",
     "navInfo": {
         "home": "/",
         "publications": "/publications",
-	"cv": "/cv"
+        "cv": "/cv"
     }
 }
